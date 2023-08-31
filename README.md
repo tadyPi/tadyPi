@@ -8,3 +8,4 @@
 <!---
 Cloud, Cyber security and Web Developer. 
 --->
+![LoadOfPixels](https://github.com/tadyPi/tadyPi/assets/129111332/68b29b82-0880-4739-b120-cebbf78aa6df)
