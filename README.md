@@ -6,6 +6,6 @@
 - 📫 How to reach me 
 
 <!---
-Cloud, Cyber security and Web Developer. 
---->
-![LoadOfPixels](https://github.com/tadyPi/tadyPi/assets/129111332/68b29b82-0880-4739-b120-cebbf78aa6df)
+Cloud and Web Developer
+
+![loadofpixels-tech-stack](https://github.com/tadyPi/tadyPi/assets/129111332/244233f2-ba97-4853-951c-cf16da06eeb2)
