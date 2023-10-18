@@ -8,4 +8,5 @@
 <!---
 Cloud and Web Developer
 
-![loadofpixels-tech-stack](https://github.com/tadyPi/tadyPi/assets/129111332/244233f2-ba97-4853-951c-cf16da06eeb2)
+![loadofpixels-tech-stack](https://github.com/tadyPi/tadyPi/assets/129111332/3e0fd365-a095-4599-b32f-f0ec7fb30342)
+
