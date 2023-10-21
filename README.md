@@ -3,7 +3,7 @@
 -  🌱 I am a Google UX designer who uses Figma for design and VS code for development.
 -     I’m currently learning Azure, AWS and general web development. HTML CSS and Javascript. Node.js, React, Vite.js Next.js.
 - 💞️ I’m looking to collaborate on any projects and building on my skills.
-- 📫 How to reach me 
+- 📫
 
 <!---
 Cloud and Web Developer
