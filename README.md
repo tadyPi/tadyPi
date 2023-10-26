@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on any projects and building on my skills.
 - 📫
 
-<!---
 Cloud and Web Developer
 
 
