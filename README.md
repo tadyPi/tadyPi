@@ -6,6 +6,6 @@
 - 📫
 
 Cloud and Web Developer
-![load-of-pixels-LIGHT](https://github.com/tadyPi/tadyPi/assets/129111332/f6fe1267-5611-4b0c-b3c8-7b0fcae0878b)
 
 
+![load-of-pixels-LIGHT](https://github.com/tadyPi/tadyPi/assets/129111332/f2ffb84c-c31f-4a4a-988a-83092608996e)
