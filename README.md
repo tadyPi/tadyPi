@@ -8,6 +8,7 @@
 Cloud and Web Development.
 UI/UX designer.
 Web design.
+Cybersecurity.
 
 
 ![load-of-pixels-LIGHT](https://github.com/tadyPi/tadyPi/assets/129111332/f2ffb84c-c31f-4a4a-988a-83092608996e)
