@@ -1,4 +1,4 @@
-- 👋 Hi, I’m tade, i am a Node.js developer and Google UX designer.
+- 👋 Hi, i am a Node.js developer and Google UX designer.
 - 👀 I’m interested in Google UX design, Web Development. I also have knowledge of Cloud and Cybersecurity.
 -  🌱 I use Figma for design and VS code for development.
 -     I’m currently learning Azure, AWS and general web development. HTML CSS and JavaScript. Node.js, React, Next.js.
