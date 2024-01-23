@@ -6,7 +6,7 @@
 - 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
 
 Cloud and Web Development: Amazon web service, Microsoft Azure, HTML, CSS, JavaScript, Node.js, Next.js, React, Flutter, Astro.js. 
-UI/UX designer: Figma, Google Material design system, 
+UI/UX designer: Figma, Google Material design system, Adobe creative cloud, 
 Web design:
 Cybersecurity:
 
