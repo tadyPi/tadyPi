@@ -1,5 +1,5 @@
-- 👋 Hi, i am a Node.js developer and Google UX designer.
-- 👀 I’m interested in Google UX design, Web Development. I also have knowledge of Cloud and Cybersecurity.
+- 👋 Hi, i am a Node.js developer, Google UX designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp.
+- 👀 I’m interested in Google UX design, Web Development. I also have knowledge of Cloud services and Cybersecurity.
 -  🌱 I use Figma for design and VS code for development.
 -     I’m currently learning Azure, AWS and general web development. HTML CSS and JavaScript. Node.js, React, Next.js.
 - 💞️ I’m looking to collaborate on any projects and building on my skills.
