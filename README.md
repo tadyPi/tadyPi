@@ -8,7 +8,7 @@
 
 Cloud and Web Development: Amazon web service, Microsoft Azure, HTML, CSS, JavaScript, Node.js, Next.js, React, Flutter, Astro.js. 
 UI/UX designer: Figma, Google Material design system, Adobe creative cloud, 
-Web design: Webflow,
+Web design: Webflow, Microsoft power apps,
 Cybersecurity: CISA, OWASP, CSA, NIST
 
 
