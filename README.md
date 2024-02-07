@@ -13,3 +13,4 @@ Cybersecurity: CISA, OWASP, CSA, NIST
 
 
 ![load-of-pixels-LIGHT](https://github.com/tadyPi/tadyPi/assets/129111332/f2ffb84c-c31f-4a4a-988a-83092608996e)
+![Socials-design](https://github.com/tadyPi/tadyPi/assets/129111332/de9c2300-982b-4acf-a71e-8bc2466a4b96)
