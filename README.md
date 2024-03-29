@@ -16,3 +16,4 @@ Cybersecurity: OSINT, CISA, OWASP, CSA, NIST.
 
 
 ![web-design (1)](https://github.com/tadyPi/tadyPi/assets/129111332/8564617e-4d8e-46e6-8cbc-b1aa99a93ce0)
+[Google-UX-Design-Certificate](https://github.com/tadyPi/tadyPi/files/14805959/Google-UX-Design-Certificate---Case-study-Rossendale-hospice.pptx)
