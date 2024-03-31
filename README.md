@@ -8,16 +8,10 @@
 
 Cloud and Web Development: Amazon web service, Microsoft Azure, HTML, CSS, JavaScript, Node.js, Next.js, React, Flutter, Astro.js. 
 UI/UX designer: Figma, Google Material design system, Adobe creative cloud.
-
-
+Web design: Webflow, Microsoft power apps.
 Cybersecurity: OSINT, CISA, OWASP, CSA, NIST.
 
 ![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/ddb26727-40ec-4648-a836-a21f9dde3733)
-
-
-
-
-Web design: Webflow, Microsoft power apps.![homepage-01](https://github.com/tadyPi/tadyPi/assets/129111332/77daf64f-ea98-462d-9b54-f9d28f6b9eaf)
 
 
 
