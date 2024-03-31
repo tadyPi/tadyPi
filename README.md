@@ -11,6 +11,9 @@ UI/UX designer: Figma, Google Material design system, Adobe creative cloud.
 Web design: Webflow, Microsoft power apps.
 Cybersecurity: OSINT, CISA, OWASP, CSA, NIST.
 
+![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/c2043fab-4ce5-4b9e-93c3-98646834dafc)
+
+
 
 ![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/b6e0e2f5-9dac-4249-a97f-0278160f0a52)![Uploading mockup-stack.png…]()
 
