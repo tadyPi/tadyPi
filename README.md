@@ -7,13 +7,14 @@
 - 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
 
 Cloud and Web Development: Amazon web service, Microsoft Azure, HTML, CSS, JavaScript, Node.js, Next.js, React, Flutter, Astro.js. 
-UI/UX designer: Figma, Google Material design system, Adobe creative cloud. 
+UI/UX designer: Figma, Google Material design system, Adobe creative cloud.
+
 Web design: Webflow, Microsoft power apps.
 Cybersecurity: OSINT, CISA, OWASP, CSA, NIST.
 
-
-![load-of-pixels-LIGHT](https://github.com/tadyPi/tadyPi/assets/129111332/f2ffb84c-c31f-4a4a-988a-83092608996e)
-
+ ![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/57fe9502-73aa-4e57-a7d2-fd7790d49fba)
 
 
-![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/b6e0e2f5-9dac-4249-a97f-0278160f0a52)
+
+![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/b6e0e2f5-9dac-4249-a97f-0278160f0a52)![Uploading mockup-stack.png…]()
+
