@@ -15,5 +15,5 @@ Cybersecurity: OSINT, CISA, OWASP, CSA, NIST.
 
 
 
-![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/b6e0e2f5-9dac-4249-a97f-0278160f0a52)![Uploading mockup-stack.png…]()
 
+![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/1739b489-a353-4841-acec-264838983a65)
