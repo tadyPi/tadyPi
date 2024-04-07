@@ -5,11 +5,7 @@
 -     I’m currently learning Microsoft Azure, Amazon web services (AWS) and general web development. HTML CSS and JavaScript. Node.js, React, Next.js, tailwind css.
 - 💞️ I’m looking to collaborate on any projects and improving my knowledge and my skills.
 - 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
-
-Cloud and Web Development: Amazon web service, Microsoft Azure, HTML, CSS, JavaScript, Node.js, Next.js, React, Flutter, Astro.js. 
-UI/UX designer: Figma, Google Material design system, GIMP .
-Web design: Webflow, Microsoft power apps.
-Cybersecurity: OSINT, CISA, OWASP, CSA, NIST.
+ 
 
 ![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/c2043fab-4ce5-4b9e-93c3-98646834dafc)
 
