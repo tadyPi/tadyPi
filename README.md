@@ -6,12 +6,12 @@
 
 - 💞️ I’m looking to collaborate on any projects and improving my knowledge and my skills.
 - 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
+
+
 ![desktopMobile-landscape](https://github.com/tadyPi/tadyPi/assets/129111332/e67d4538-7cf9-45a2-8811-23c93930db77)
 
 
 
- 
-![desktopMobile-landscape](https://github.com/tadyPi/tadyPi/assets/129111332/e3a239fb-6c6c-4c5f-8017-f8ab476ca0ed)
 
 ![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/c2043fab-4ce5-4b9e-93c3-98646834dafc)
 
