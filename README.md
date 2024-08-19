@@ -8,8 +8,7 @@
 - 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
 -    Contact: hello@loadofpixels.com.
 
-
-![UX-Dev-pixels](https://github.com/user-attachments/assets/40e68619-3440-4903-bb61-014c071330a2)
+![Group 176](https://github.com/user-attachments/assets/d4461cda-67e1-440d-85ac-4620d00571c8)
 
 
 ![desktopMobile-landscape](https://github.com/tadyPi/tadyPi/assets/129111332/e67d4538-7cf9-45a2-8811-23c93930db77)
