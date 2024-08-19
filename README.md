@@ -9,8 +9,7 @@
 -    Contact: hello@loadofpixels.com.
 
 
-
-![org-space](https://github.com/user-attachments/assets/af417b1b-e617-44fc-9d60-1218b2669b50)
+![UX-Dev-pixels](https://github.com/user-attachments/assets/40e68619-3440-4903-bb61-014c071330a2)
 
 
 ![desktopMobile-landscape](https://github.com/tadyPi/tadyPi/assets/129111332/e67d4538-7cf9-45a2-8811-23c93930db77)
