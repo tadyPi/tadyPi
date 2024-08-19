@@ -9,19 +9,17 @@
 -    Contact: hello@loadofpixels.com.
 
 
+
+![org-space](https://github.com/user-attachments/assets/af417b1b-e617-44fc-9d60-1218b2669b50)
+
+
 ![desktopMobile-landscape](https://github.com/tadyPi/tadyPi/assets/129111332/e67d4538-7cf9-45a2-8811-23c93930db77)
-
-
 
 
 ![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/c2043fab-4ce5-4b9e-93c3-98646834dafc)
 
 
-
-
 ![Figma-vsCode-NextJs](https://github.com/tadyPi/tadyPi/assets/129111332/2595b569-31bf-49cb-abd6-c4e2927efc5a)
-
-
 
 
 ![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/8b5c959a-5c78-406a-a699-598b3c936abf)
