@@ -17,11 +17,7 @@
 ![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/c2043fab-4ce5-4b9e-93c3-98646834dafc)
 
 
-![Figma-vsCode-NextJs](https://github.com/tadyPi/tadyPi/assets/129111332/2595b569-31bf-49cb-abd6-c4e2927efc5a)
-
-
-
-<img width="1175" alt="pixels-design-app@2x" src="https://github.com/user-attachments/assets/25c0e87f-3068-476c-97c2-97040e6962a6">
+<img width="1175" alt="pixels-design-app@2x" src="https://github.com/user-attachments/assets/25c0e87f-068-476c-97c2-97040e6962a6">
 
 
 ![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/8b5c959a-5c78-406a-a699-598b3c936abf)
