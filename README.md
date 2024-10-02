@@ -4,7 +4,7 @@
 - 🌱 i am a huge fan of Figma which i use for for design and VS code for development.
 -     I’m currently learning Microsoft Azure, Amazon web services(AWS) and general Web development. HTML CSS and JavaScript. Node.js, React, Next.js, Tailwindcss, Clerk Auth, Shadcn-ui, Anima, Locofy, builder.io.
 
-- 💞️ I’m looking to collaborate on any projects while improving my knowledge and my skills.
+- 💞️ I’m looking to collaborate on any projects while improving my knowledge.
 - 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
 -    Contact: hello@loadofpixels.com.
 
