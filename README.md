@@ -6,6 +6,7 @@
 
 - 💞️ I’m looking to collaborate on any projects while improving my knowledge.
 - 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
+- Amazon Startup Member.
 -    Contact: hello@loadofpixels.com.
 
 ![Group 176](https://github.com/user-attachments/assets/d4461cda-67e1-440d-85ac-4620d00571c8)
