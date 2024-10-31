@@ -5,8 +5,7 @@
 -     I’m currently learning Microsoft Azure, Amazon web services (AWS) and general Web development. HTML CSS and JavaScript. Node.js, React, Next.js, Vite.js, Tailwindcss, Clerk Auth, Shadcn-ui, Anima, Locofy, builder.io.
 
 - 💞️ I’m looking to collaborate on any projects while improving my knowledge.
-- 📫 Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
-- Amazon Startup Member.
+- 📫 Amazon Startup Member. Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
 -    Contact: hello@loadofpixels.com.
 
 ![Group 176](https://github.com/user-attachments/assets/d4461cda-67e1-440d-85ac-4620d00571c8)
