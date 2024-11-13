@@ -20,7 +20,3 @@
 <img width="1175" alt="pixels-design-app@2x" src="https://github.com/user-attachments/assets/aed4171d-55e4-40bf-bc0e-a1d9637f93cf">
 
 
-
-![Wireframe - 1](https://github.com/tadyPi/tadyPi/assets/129111332/8b5c959a-5c78-406a-a699-598b3c936abf)
-
-
