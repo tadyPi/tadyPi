@@ -1,4 +1,4 @@
-- 👋 Hi, i am a Javascript developer who uses Node.js for development, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
+- 👋 Hi, i am a Javascript developer who uses Node.js, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
 -   I have also completed the Google UX Design professional course and currently working though the Google Cyber-security professional course.
 - 👀 I’m interested in Cloud and Web Development and UI/UX design. I also have knowledge of Cloud services and Cybersecurity.
 - 🌱 i am a big fan of Figma which i use for for design and VS code for development.
