@@ -1,8 +1,9 @@
-- 👋 Hi, i am a Javascript developer who uses Node.js run-time environment, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
+- 👋 Hi, i am a Javascript developer who uses the Node.js run-time environment, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
 -   I have also completed the Google UX Design professional course and currently working though the Google Cyber-security professional course.
 - 👀 I’m interested in Cloud and Web Development and UI/UX design. I also have knowledge of Cloud services and Cybersecurity.
 - 🌱 i am a big fan of Figma which i use for for design and VS code for development.
 -     I’m currently learning Microsoft Azure, Amazon web services (AWS) and general Web development. HTML CSS and JavaScript. Node.js, React, Next.js, Vite.js, Tailwindcss, Clerk Auth, Shadcn-ui, Anima, Locofy, builder.io.
+- I have started looking into mobile development using React Native and Expo.
 
 - 💞️ I’m looking to collaborate on any projects while improving my knowledge.
 - 📫 Amazon Startup Member. Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
