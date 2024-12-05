@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cloud and Web Development and UI/UX design. I also have knowledge of Cloud services and Cybersecurity.
 - 🌱 i am a big fan of Figma which i use for for design and VS code for development.
 -     I’m currently learning Microsoft Azure, Amazon web services(AWS) and general Web development. HTML CSS and JavaScript. Node.js, React, Next.js, Vite.js, Tailwindcss, Clerk Auth, Shadcn-ui, Anima, builder.io.
-- I have started learning about mobile development using React Native and Expo.
+- I have started learning about mobile development using React Native and Expo to build Web, Android and IOS Applications.
 
 - 💞️ I’m looking to collaborate on any projects while improving my knowledge.
 - 📫 Amazon Startup Member. Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
