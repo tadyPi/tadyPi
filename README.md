@@ -4,7 +4,7 @@
 -   I have also completed the Google UX Design professional course and currently working though the Google Cyber-security professional course.
 - 👀 I’m interested in Cloud and Web Development and UI/UX design. I also have knowledge of Cloud services and Cybersecurity.
 - 🌱 i am a big fan of Figma which i use for for design and VS code for development.
--     I’m currently learning Microsoft Azure, Amazon web services(AWS) and general Web development. HTML CSS and JavaScript. Node.js, React, Next.js, Vite.js, Tailwind css, Clerk Auth, Shadcn-ui, Anima, builder.io, Codia-Ai.
+-     I’m currently learning about cloud services using Microsoft Azure, Amazon web services(AWS) and general Web development. HTML CSS and JavaScript. Node.js, React, Next.js, Vite.js, Tailwind css, Clerk Auth, Shadcn-ui, Anima, builder.io, Codia-Ai.
 -👋 I have started learning about mobile development using React Native and Expo to build Web, Android and IOS Applications.
 
 - 💞️ I’m looking to collaborate on any projects while improving my knowledge.
