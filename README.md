@@ -8,7 +8,7 @@
 -👋 I have started learning about mobile development using React Native and Expo to build Web, Android and IOS Applications.
 
 - 💞️ I’m looking to collaborate on any projects while improving my knowledge.
-- 📫 Amazon Startup Member. Leveraging the power of Amazon web services(AWS) and Microsoft Azure to secure my clients infrastructure.
+- 📫 Amazon Startup Member. Leveraging the power of Amazon web services(AWS).
   
 
 ![Group 176](https://github.com/user-attachments/assets/d4461cda-67e1-440d-85ac-4620d00571c8)
