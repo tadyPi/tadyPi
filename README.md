@@ -1,4 +1,4 @@
-<img width="1175" alt="pixels-design-app@2x" src="https://github.com/user-attachments/assets/aed4171d-55e4-40bf-bc0e-a1d9637f93cf">
+![apps-image](https://github.com/user-attachments/assets/90e72f99-9c0c-4541-a2dc-4ddbb7747949)
 
 - 👋 Hi, i am a Javascript developer who uses the Node.js run-time environment, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
 -   I have also completed the Google UX Design professional course and currently working though the Google Cyber-security professional course.
