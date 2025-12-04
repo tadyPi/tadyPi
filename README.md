@@ -1,4 +1,5 @@
-![apps-image](https://github.com/user-attachments/assets/90e72f99-9c0c-4541-a2dc-4ddbb7747949)
+<img width="1400" height="617" alt="apps-frame" src="https://github.com/user-attachments/assets/31610a70-5d76-48b8-afb4-e366946bec33" />
+
 
 - 👋 Hi, i am a Javascript developer who uses the Node.js run-time environment, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
 -   I have also completed the Google UX Design professional course and currently working though the Google Cyber-security professional course.
@@ -13,10 +14,7 @@
 
 ![Group 176](https://github.com/user-attachments/assets/d4461cda-67e1-440d-85ac-4620d00571c8)
 
-![mockup-stack](https://github.com/tadyPi/tadyPi/assets/129111332/c2043fab-4ce5-4b9e-93c3-98646834dafc)
-
-![desktopMobile-landscape](https://github.com/tadyPi/tadyPi/assets/129111332/e67d4538-7cf9-45a2-8811-23c93930db77)
-
+<img width="1778" height="846" alt="SDS-product" src="https://github.com/user-attachments/assets/659293c0-111d-4926-916c-ec32ca7a19ee" />
 
 
 
