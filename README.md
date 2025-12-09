@@ -1,4 +1,5 @@
-<img width="4276" height="1758" alt="Github-loadofpixels" src="https://github.com/user-attachments/assets/3d5de86a-d4aa-4abe-b79b-1e101ce62b03" />
+<img width="1700" height="429" alt="LinkedIn-loadofpixel-small" src="https://github.com/user-attachments/assets/41907120-4c84-4f4a-b50a-c362dce89aa5" />
+
 
 - 👋 Hi, i am a Javascript developer who uses the Node.js run-time environment, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
 -   I have also completed the Google UX Design professional course and currently working though the Google Cyber-security professional course.
