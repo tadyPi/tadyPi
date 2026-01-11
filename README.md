@@ -19,6 +19,7 @@
 
 <img width="1778" height="846" alt="SDS-product" src="https://github.com/user-attachments/assets/659293c0-111d-4926-916c-ec32ca7a19ee" />
 
+<img width="1709" height="1069" alt="tech-26" src="https://github.com/user-attachments/assets/dc10f2cf-4093-4d98-ae39-4d1ed62b32ca" />
 
-<img width="1709" height="1069" alt="tech-26" src="https://github.com/user-attachments/assets/7a5f8752-37b2-40bd-b194-5a8e580ba6fb" />
+
 
