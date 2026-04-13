@@ -1,4 +1,4 @@
-<img width="1700" height="429" alt="LinkedIn-loadofpixel-small" src="https://github.com/user-attachments/assets/41907120-4c84-4f4a-b50a-c362dce89aa5" />
+<img width="1780" height="445" alt="lop-fullStack" src="https://github.com/user-attachments/assets/f9c85138-7283-457c-8109-41206abddde8" />
 
 
 - 👋 Hi, i am a Javascript developer who uses the Node.js run-time environment, Google UX/UI designer and graduate of University Academy 92(UA92) Cloud and Cybersecurity Bootcamp were i passed the CompTia cloud essentials+ exam.
