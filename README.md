@@ -17,7 +17,8 @@
 -     I’m currently learning about cloud services using Microsoft Azure, Amazon web services(AWS) and general Web development. HTML CSS JavaScript and TypeScript. Node.js, React, Next.js, Vite.js, Tailwind css, Clerk Auth, Shadcn-ui, Supabase, MongoDB, FireBase.
 
 
-<img width="1778" height="846" alt="SDS-product" src="https://github.com/user-attachments/assets/659293c0-111d-4926-916c-ec32ca7a19ee" />
+<img width="3693" height="1766" alt="ATB-marketing" src="https://github.com/user-attachments/assets/b3dcaded-7ab0-4103-97ca-4e6bbf022d2f" />
+
 
 <img width="1709" height="1069" alt="tech-26" src="https://github.com/user-attachments/assets/8371769d-f49b-4853-96d9-b759dd8d05c6" />
 
